@@ -1,0 +1,174 @@
+body,html{
+    height: 100%;
+}
+body > div.site-wrapper {
+    background: #2c2c34;
+    min-height: 100%;
+    position: relative;
+}
+body,p,* {
+    color: #828189;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1.66em;
+    letter-spacing: 2px;
+}
+body h2 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+body a:focus, body a:hover {
+    text-decoration: none;
+}
+body,p{
+    font-size: 16px;
+}
+body p {
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+body a {
+    color: #84e997;
+}
+body a:hover, body a:focus {
+    color: #ffffff;
+}
+.logo-text{
+    color: #84e997;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    font-weight: normal;
+}
+.intro-text {
+    margin: 45px 0 75px;
+    display: none;
+}
+.intro-text h2 span {
+    color: #84e997;
+}
+.logo-container {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.main-nav {
+    margin-top: 45px;
+}
+.main-nav .col-md-4 {
+    text-align: center;
+}
+.fun-cta {
+    position: relative;
+    color: #d3d3d3;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: 100;
+    text-decoration: none;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -ms-transition: all .2s linear;
+    transition: all .2s linear;
+    -kthtml-transition: all .2s linear;
+    padding-bottom: 10px;
+}
+.fun-cta:after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    background: #84e997;
+    height: 2px;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -ms-transition: all .2s linear;
+    transition: all .2s linear;
+    -kthtml-transition: all .2s linear;
+}
+.fun-cta:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.fun-cta:focus {
+    color: #d3d3d3;
+    outline: none;
+    text-decoration: none;
+}
+.fun-cta.active:focus {
+    color: #ffffff;
+}
+.fun-cta.active:after {
+    width: 100%;
+}
+.fun-cta.active {
+    text-shadow: 4px 4px 0px rgb(0, 0, 0);
+}
+
+.fun-cta:hover:after {
+    width: 100%;
+}
+.LobbyList-wrapper .my-id {
+    color: white;
+    font-weight: 300;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.LobbyList-wrapper .my-id span {
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    letter-spacing: 2px;
+}
+.race-super-wrapper {
+    position: relative;
+}
+.page-container {
+    margin-top: 85px;
+    margin-bottom: 125px;
+}
+.super-accent {
+    color: #84e997;
+}
+.page-container h2{
+    text-align: left;
+}
+ul {
+    padding-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**/

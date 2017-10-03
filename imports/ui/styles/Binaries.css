@@ -1,0 +1,25 @@
+.Binaries-super-wrapper {
+    max-width: 650px;
+    margin: auto;
+    text-align: center;
+}
+.Binaries-super-wrapper .Binaries-item-wrapper{
+    padding: 5px 30px;
+    line-height: 40px;
+}
+.Binaries-super-wrapper .Binaries-item-wrapper span{
+    color: #828189;
+    display: inline-block;
+    font-weight: 300;
+    letter-spacing: 4px;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -ms-transition: all .2s linear;
+    transition: all .2s linear;
+    -kthtml-transition: all .2s linear;
+}
+.Binaries-item-wrapper.correct span{
+    color: #84e997;
+    font-weight: 900;
+}

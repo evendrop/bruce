@@ -1,0 +1,43 @@
+.the-score-container {
+    margin-top: 5px;
+}
+.the-score {
+    background: #ff0093;
+    width:5%;
+    height: 6px;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -ms-transition: all .2s linear;
+    transition: all .2s linear;
+    -kthtml-transition: all .2s linear;
+}
+.the-score, .the-score-psuedo {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.the-score-psuedo {
+    background: #3d3d4c;
+    width: 100%;
+    height: 6px;
+}
+.GoodGuys-container .the-score {
+    background: #ff0093;
+}
+.GoodGuys-container .the-score {
+    background: #ffb722;
+}
+.player-score-container {
+    margin-top: 45px;
+    margin-bottom: 35px;
+}
+.Scoreboard-wrapper .label {
+    padding-left: 0;
+    padding-bottom: 5px;
+    line-height: 35px;
+    font-size: 10px;
+}
+.the-score-container {
+    position: relative;
+}

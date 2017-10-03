@@ -1,0 +1,73 @@
+.logo-container a {
+    position: relative;
+}
+.logo-container a span:before {
+    content: "";
+    position: absolute;
+    right: -20px;
+    bottom: 1px;
+    background: #84e997;
+    width: 17px;
+    height: 22px;
+    background: #84e997;
+    -webkit-animation: 1s blink step-end infinite;
+    -moz-animation: 1s blink step-end infinite;
+    -ms-animation: 1s blink step-end infinite;
+    -o-animation: 1s blink step-end infinite;
+    animation: 1s blink step-end infinite;
+}
+.logo-container a span:after {
+    content: "";
+    position: absolute;
+    width: 17px;
+    height: 3px;
+    background: #84e997;
+    bottom: 0;
+    right: -20px;
+}
+.blinking-cursor {
+}
+@keyframes "blink" {
+  from, to {
+    background: transparent;
+  }
+  50% {
+    background: #84e997;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    background: transparent;
+  }
+  50% {
+    background: #84e997;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    background: transparent;
+  }
+  50% {
+    background: #84e997;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    background: transparent;
+  }
+  50% {
+    background: #84e997;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    background: transparent;
+  }
+  50% {
+    background: #84e997;
+  }
+}

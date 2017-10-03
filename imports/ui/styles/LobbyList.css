@@ -1,0 +1,65 @@
+.LobbyList[data-mod="color1"] span {
+    color: #ff0093;
+}
+.LobbyList[data-mod="color2"] span {
+    color: #ffb722;
+}
+.LobbyList[data-mod="color3"] span {
+    color: #03fcfc;
+}
+.LobbyList[data-mod="color1"] svg {
+    fill: #ff0093;
+}
+.LobbyList[data-mod="color2"] svg {
+    fill: #ffb722;
+}
+.LobbyList[data-mod="color3"] svg {
+    fill: #03fcfc;
+}
+.LobbyList .player-trigger svg {
+    vertical-align: -17% !important;
+    width: 25px;
+    height: 25px;
+    line-height: 20px;
+    margin-right: 10px;
+}
+.LobbyList .player-trigger svg{
+    transform: rotate(337deg) ;
+    -webkit-transform: rotate(337deg) ;
+    -moz-transform: rotate(337deg) ;
+    -o-transform: rotate(337deg) ;
+    -ms-transform: rotate(337deg) ;
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -ms-transition: all .2s linear;
+    transition: all .2s linear;
+    -kthtml-transition: all .2s linear;
+}
+.LobbyList:hover .player-trigger svg{
+    transform: rotate(360deg) ;
+    -webkit-transform: rotate(360deg) ;
+    -moz-transform: rotate(360deg) ;
+    -o-transform: rotate(360deg) ;
+    -ms-transform: rotate(360deg) ;
+}
+.LobbyList {
+    display: inline-block;
+    cursor: pointer;
+}
+.LobbyList span {
+    font-weight: 300;
+    padding: 0 20px;
+    line-height: 50px;
+    font-size: 13px;
+}
+.LobbyList-wrapper {
+    margin-top: 75px;
+    text-align: center;
+}
+.LobbyList-wrapper h3 {
+    padding-top: 60px;
+    border-top: 3px solid #84e997;
+    margin-bottom: 40px;
+    font-size: 16px;
+}
