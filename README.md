@@ -9,6 +9,7 @@ Also, visit the [wiki](https://github.com/evendrop/bruce/wiki) to see more infor
 
 ### See the demo
 [bruce in action on Heroku](https://bruce-binary-game.herokuapp.com)
+
 If the race lobby is empty, open another tab to the race lobby to simulate other lobby users.
 You can also simulate a race by opening the console of the second tab and running
 `ai(4000)`
