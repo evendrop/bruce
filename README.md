@@ -20,9 +20,9 @@ This calls the ai function and passes the millisecond interval the ai solve the 
 
 ##### User's Journey
 
-[VIEW FULL SIZE IMAGE](http://oi67.tinypic.com/2vwa7ip.jpg)
+[VIEW FULL SIZE IMAGE](http://oi67.tinypic.com/xp7982.jpg)
 
-![](http://oi67.tinypic.com/2vwa7ip.jpg)
+![](http://oi67.tinypic.com/xp7982.jpg)
 
 ##### Data Map
 
