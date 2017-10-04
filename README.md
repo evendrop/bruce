@@ -17,3 +17,21 @@ This calls the ai function and passes the millisecond interval the ai solve the 
 
 #### To run this project:
 `meteor`
+
+##### User's Journey
+
+[VIEW FULL SIZE IMAGE](http://oi63.tinypic.com/2lmtmcj.jpg)
+
+![](http://oi63.tinypic.com/2lmtmcj.jpg)
+
+##### Data Map
+
+[VIEW FULL SIZE IMAGE](http://oi64.tinypic.com/3523fja.jpg)
+
+![](http://oi64.tinypic.com/3523fja.jpg)
+
+##### Components Map
+
+[VIEW FULL SIZE IMAGE](http://oi63.tinypic.com/8vw5mg.jpg)
+
+![](http://oi63.tinypic.com/8vw5mg.jpg)
